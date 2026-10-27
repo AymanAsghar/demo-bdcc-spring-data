@@ -2,7 +2,6 @@
 
 | # | Fichier | Description |
 |---|---------|-------------|
-| 01 | `01-intellij-nouveau-projet.png` | Création du projet dans IntelliJ IDEA |
 | 02 | `02-h2-console-3-produits.png` | Console H2 : table PRODUCTS avec 3 produits |
 | 03 | `03-get-all-products.png` | Consulter tous les produits (`GET /products`) |
 | 04 | `04-get-product-by-id.png` | Consulter un produit (`GET /products/2`) |
